@@ -158,7 +158,7 @@ $(document).ready(function() {
 
 
   var players = [playerOne, playerTwo, compPlayerEasy,compPlayerHard];
-  var index = 2; // at some point click a button to choose enemy type
+  var index = 1; // at some point click a button to choose enemy type
   var aiWinCheck = false;
   var currentPlayer = 0;
 
